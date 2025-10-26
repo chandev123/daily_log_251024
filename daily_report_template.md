@@ -1,7 +1,7 @@
 # 🧾 Daily Report - {{YYYY.MM.DD}}
 
 **Project / Course:** (예: 로보틱스 부트캠프)
-**Author:** (이름)
+**Author:** MARKCH
 
 ---
 
@@ -17,7 +17,7 @@
 ## 4. 문제점 및 개선방안
 - 
 
-## 5. 느낀 점
+## 5. 분석 / 인사이트
 - 
 
 ## 6. 내일 계획
