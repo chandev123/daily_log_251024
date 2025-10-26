@@ -1,6 +1,6 @@
 # 🧾 Daily Report - {{YYYY.MM.DD}}
 
-**Project / Course:** (예: 로보틱스 부트캠프)
+**Project / Course:** 
 **Author:** MARKCH
 
 ---
